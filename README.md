@@ -37,7 +37,7 @@ pip install -r requirements.txt
 2. **Set your OpenAI API Key**  
 Create a `.env` file in the project root and add your key:
 ```
-OPENAI_API_KEY=your_openai_api_key_here
+OPENAI_API_KEY = "your_openai_api_key_here"
 ```
 
 3. **Run the application with Streamlit**
